@@ -1,2 +1,2 @@
 # Connection-Defend-And-Offend
-Base on DoD.
+Base on DoD.A RTS GAME TEST.
